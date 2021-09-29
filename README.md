@@ -5,7 +5,7 @@
 #just dowload and place files like this and u can convert any mods in mass in one click
 Sometimes you want bullet points:
 
-* ANimation conveter u can get after install Creation Kit (hint u nead Bethesda Account and their Launcher)
+* Animation conveter u can get after install Creation Kit (hint u nead Bethesda Account and their Launcher)
 * bsarch here (https://www.nexusmods.com/newvegas/mods/69145?tab=files)
 
 
