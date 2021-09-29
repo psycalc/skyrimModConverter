@@ -7,6 +7,7 @@ Sometimes you want bullet points:
 
 * Animation conveter u can get after install Creation Kit (hint u nead Bethesda Account and their Launcher)
 * bsarch here (https://www.nexusmods.com/newvegas/mods/69145?tab=files)
+* NifScan.exe here (https://www.nexusmods.com/skyrim/mods/75916/?tab=files)
 
 
 ![image](https://user-images.githubusercontent.com/2714036/135233753-21b06c59-ff36-4d9c-aeee-e79fb938b5b6.png)
