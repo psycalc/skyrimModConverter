@@ -1,7 +1,7 @@
 # skyrimModConverter
 #just cover old skyrim mod format to new
 # Folder whre should me olddrim (Skyrim Legendary Edtion mods)
-$pathWhereYouDowloadModsArchiveLEVersion="D:\Downloads\Games\SkyrimManualMods\LEVersion"
+`$pathWhereYouDowloadModsArchiveLEVersion="D:\Downloads\Games\SkyrimManualMods\LEVersion"`
 ### WHY NOBODY DO THIS AND SHARE WITH THE WORLD?
 #just dowload and place files like this and u can convert any mods in mass in one click
 Sometimes you want bullet points:
